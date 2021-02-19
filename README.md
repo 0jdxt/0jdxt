@@ -38,6 +38,6 @@ export WM=bspwm
 * [0jdxt/dotfiles/.bin/polybar-updates](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-updates)
 * [0jdxt/dotfiles/.bin/polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
 
-### :toolbox: scripts
+### <img src="https://emojicdn.elk.sh/toolbox?style=openmoji" width="200" height="200"> scripts
 
 * [0jdxt/dotfiles/.bin](https://github.com/0jdxt/dotfiles/tree/master/.bin)
