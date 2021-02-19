@@ -9,6 +9,7 @@ Feel free to browse and use. Beware of licenses.
 
 To start you off, here's a list of things for linux nerds:
 
+
 ### <img src="https://emojicdn.elk.sh/📜?style=openmoji" width="40"> <br> .profile
 
 ```bash
@@ -20,10 +21,12 @@ export TERM=alacritty
 export WM=bspwm
 ```
 
+
 ### <img src="https://emojicdn.elk.sh/🗂️?style=openmoji" width="40"> <br> setup
 
 * [polybar/polybar](https://github.com/polybar/polybar)
 * [0jdxt/dotfiles](https://github.com/0jdxt/dotfiles)
+
 
 ### <img src="https://emojicdn.elk.sh/🛠️?style=openmoji" width="40"> <br> builds
 
@@ -31,12 +34,14 @@ export WM=bspwm
 * [0jdxt/tabbed](https://github.com/0jdxt/tabbed)
 * [0jdxt/oreo-nord-cursors](https://github.com/0jdxt/oreo-nord-cursors)
 
-### <img src="https://emojicdn.elk.sh/📊?style=openmoji" width="40"> ,br> polybar modules
+
+### <img src="https://emojicdn.elk.sh/📊?style=openmoji" width="40"> <br> polybar modules
 
 * [0jdxt/polybar-kde](https://github.com/0jdxt/polybar-kde)
 * [0jdxt/polybar-mpris](https://github.com/0jdxt/polybar-mpris)
 * [0jdxt/dotfiles/.bin/polybar-updates](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-updates)
 * [0jdxt/dotfiles/.bin/polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
+
 
 ### <img src="https://emojicdn.elk.sh/toolbox?style=openmoji" width="40"> <br> scripts
 
