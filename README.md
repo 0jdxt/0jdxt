@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 🗄 setup
 * [baskerville/bspwm](https://github.com/baskerville/bspwm)
 * [polybar/polybar](https://github.com/polybar/polybar)
-* [0jdxt/dotfiles]
+* [0jdxt/dotfiles](https://github.com/0jdxt/dotfiles)
 ### :hammer_and_wrench: builds
 * [0jdxt/dmenu](https://github.com/0jdxt/dmenu)
 * [0jdxt/tabbed](https://github.com/0jdxt/tabbed)
