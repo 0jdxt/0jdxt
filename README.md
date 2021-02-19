@@ -1,4 +1,8 @@
-# Hi there 👋
+# Welcome! 👋
+
+Feel free to browse and use. Beware of licenses.
+
+To start you off, here's a list of things for linux nerds
 
 ### :card_index_dividers: setup
 * [baskerville/bspwm](https://github.com/baskerville/bspwm)
