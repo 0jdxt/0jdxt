@@ -10,7 +10,7 @@ Feel free to browse and use. Beware of licenses.
 
 To start you off, here's a list of things for linux nerds:
 
-### 📇 .profile
+### :scroll: .profile
 
 ```bash
 export BROWSER=brave
