@@ -4,8 +4,16 @@ Feel free to browse and use. Beware of licenses.
 
 To start you off, here's a list of things for linux nerds:
 
+Relevant section of `.profile`:
+```bash
+export BROWSER=brave
+export EDITOR=nvim
+export PAGER=most
+export TERM=alacritty
+export WM=bspwm
+```
+
 ### :card_index_dividers: setup
-* [baskerville/bspwm](https://github.com/baskerville/bspwm)
 * [polybar/polybar](https://github.com/polybar/polybar)
 * [0jdxt/dotfiles](https://github.com/0jdxt/dotfiles)
 ### :hammer_and_wrench: builds
