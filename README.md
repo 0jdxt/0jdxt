@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🗄 custom setup
+### 🗄 setup
 * [0jdxt/dotfiles](https://github.com/0jdxt/dotfiles)
-### 🛠 custom builds
+* [bspwm](https://github.com/baskerville/bspwm)
+* [polybar](https://github.com/polybar/polybar)
+### 🛠 builds
 * [0jdxt/dmenu](https://github.com/0jdxt/dmenu)
 * [0jdxt/tabbed](https://github.com/0jdxt/tabbed)
 * [0jdxt/oreo-nord-cursors](https://github.com/0jdxt/oreo-nord-cursors)
-### 📊 custom polybar modules
+### 📊 polybar modules
 * [0jdxt/polybar-kde](https://github.com/0jdxt/polybar-kde)
 * [0jdxt/polybar-mpris](https://github.com/0jdxt/polybar-mpris)
