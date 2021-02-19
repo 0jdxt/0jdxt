@@ -2,8 +2,7 @@
 
 Feel free to browse and use. Beware of licenses.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0jdxt&show_icons=true&theme=nord&include_all_commits=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0jdxt&show_icons=true&theme=nord&include_all_commits=true&line_height=21&hide_rank=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0jdxt&hide=brainfuck&theme=nord&layout=compact)
 
 ## get started
