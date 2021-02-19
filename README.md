@@ -22,20 +22,20 @@ export WM=bspwm
 ```
 
 
-### <img src="https://emojicdn.elk.sh/🗂️?style=openmoji" width="40"> <br> setup
+### <img src="https://emojicdn.elk.sh/🗂️?style=openmoji" width="50" style="position:relative;top:20px;"> setup
 
 * [polybar/polybar](https://github.com/polybar/polybar)
 * [0jdxt/dotfiles](https://github.com/0jdxt/dotfiles)
 
 
-### <img src="https://emojicdn.elk.sh/🛠️?style=openmoji" width="40"> <br> builds
+### <img src="https://emojicdn.elk.sh/🛠️?style=openmoji" width="50" style="position:relative;top:20px;"> builds
 
 * [0jdxt/dmenu](https://github.com/0jdxt/dmenu)
 * [0jdxt/tabbed](https://github.com/0jdxt/tabbed)
 * [0jdxt/oreo-nord-cursors](https://github.com/0jdxt/oreo-nord-cursors)
 
 
-### <img src="https://emojicdn.elk.sh/📊?style=openmoji" width="40"> <br> polybar modules
+### <img src="https://emojicdn.elk.sh/📊?style=openmoji" width="50" style="position:relative;top:20px;"> polybar modules
 
 * [0jdxt/polybar-kde](https://github.com/0jdxt/polybar-kde)
 * [0jdxt/polybar-mpris](https://github.com/0jdxt/polybar-mpris)
@@ -43,6 +43,6 @@ export WM=bspwm
 * [0jdxt/dotfiles/.bin/polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
 
 
-### <img src="https://emojicdn.elk.sh/toolbox?style=openmoji" width="40"> scripts
+### <img src="https://emojicdn.elk.sh/toolbox?style=openmoji"  width="50" style="position:relative;top:20px;"> scripts
 
 * [0jdxt/dotfiles/.bin](https://github.com/0jdxt/dotfiles/tree/master/.bin)
