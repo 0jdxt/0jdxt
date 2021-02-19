@@ -1,19 +1,5 @@
+```markdown
 # Hi there 👋
-
-<!--
-**0jdxt/0jdxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### 🗄 setup
 * [baskerville/bspwm](https://github.com/baskerville/bspwm)
@@ -27,6 +13,7 @@ Here are some ideas to get you started:
 * [0jdxt/polybar-kde](https://github.com/0jdxt/polybar-kde)
 * [0jdxt/polybar-mpris](https://github.com/0jdxt/polybar-mpris)
 * 0jdxt/dotfiles/.bin/[polybar-updates](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-updates)
-* * 0jdxt/dotfiles/.bin/[polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
+* 0jdxt/dotfiles/.bin/[polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
 ### :toolbox: scripts
 * 0jdxt/dotfiles/[.bin](https://github.com/0jdxt/dotfiles/tree/master/.bin)
+```
