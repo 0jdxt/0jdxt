@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  custom setup
+###  custom setup
 * [0jdxt/dotfiles](https://github.com/0jdxt/dotfiles)
 ### 🛠 custom builds
 * [0jdxt/dmenu](https://github.com/0jdxt/dmenu)
