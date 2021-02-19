@@ -2,11 +2,15 @@
 
 Feel free to browse and use. Beware of licenses.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0jdxt&show_icons=true&theme=nord&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0jdxt&hide=brainfuck&theme=nord&layout=compact)
+
 ## get started
 
 To start you off, here's a list of things for linux nerds:
 
-### .profile
+### 📇 .profile
 
 ```bash
 export BROWSER=brave
