@@ -16,6 +16,7 @@ To start you off, here's a list of things for linux nerds:
 export BROWSER=brave
 export EDITOR=nvim
 export PAGER=most
+export SHELL=zsh
 export TERM=alacritty
 export WM=bspwm
 ```
