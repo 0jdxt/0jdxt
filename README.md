@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **0jdxt/0jdxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## my setup
+### custom builds
+* [0jdxt/dmenu](https://github.com/0jdxt/dmenu)
+* [0jdxt/dotfiles](https://github.com/0jdxt/dotfiles)
+* [0jdxt/tabbed](https://github.com/0jdxt/tabbed)
+* [0jdxt/oreo-nord-cursors](https://github.com/0jdxt/oreo-nord-cursors)
+### custom polybar modules
+* [0jdxt/polybar-kde](https://github.com/0jdxt/polybar-kde)
+* [0jdxt/polybar-mpris](https://github.com/0jdxt/polybar-mpris)
