@@ -31,13 +31,13 @@ export WM=bspwm
 * [0jdxt/tabbed](https://github.com/0jdxt/tabbed)
 * [0jdxt/oreo-nord-cursors](https://github.com/0jdxt/oreo-nord-cursors)
 
-### :bar_chart: polybar modules
+### polybar modules <img src="https://emojicdn.elk.sh/bar_chart?style=openmoji" width="50">
 
 * [0jdxt/polybar-kde](https://github.com/0jdxt/polybar-kde)
 * [0jdxt/polybar-mpris](https://github.com/0jdxt/polybar-mpris)
 * [0jdxt/dotfiles/.bin/polybar-updates](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-updates)
 * [0jdxt/dotfiles/.bin/polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
 
-### <img src="https://emojicdn.elk.sh/toolbox?style=openmoji" width="200" height="200"> scripts
+### scripts <img src="https://emojicdn.elk.sh/toolbox?style=openmoji" width="50">
 
 * [0jdxt/dotfiles/.bin](https://github.com/0jdxt/dotfiles/tree/master/.bin)
