@@ -10,7 +10,7 @@ Feel free to browse and use. Beware of licenses.
 To start you off, here's a list of things for linux nerds:
 
 
-### <img src="https://emojicdn.elk.sh/📜?style=openmoji" width="40"> <br> .profile
+### <img src="https://emojicdn.elk.sh/📜?style=openmoji"  width="50" style="position:relative;top:20px;"> .profile
 
 ```bash
 export BROWSER=brave
