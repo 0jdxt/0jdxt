@@ -1,7 +1,6 @@
-<pre>
 # Hi there 👋
 
-### 🗄 setup
+### :card_index_dividers: setup
 * [baskerville/bspwm](https://github.com/baskerville/bspwm)
 * [polybar/polybar](https://github.com/polybar/polybar)
 * [0jdxt/dotfiles](https://github.com/0jdxt/dotfiles)
@@ -16,4 +15,3 @@
 * 0jdxt/dotfiles/.bin/[polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
 ### :toolbox: scripts
 * 0jdxt/dotfiles/[.bin](https://github.com/0jdxt/dotfiles/tree/master/.bin)
-</pre>
