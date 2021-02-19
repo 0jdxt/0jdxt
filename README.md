@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 ### :bar_chart: polybar modules
 * [0jdxt/polybar-kde](https://github.com/0jdxt/polybar-kde)
 * [0jdxt/polybar-mpris](https://github.com/0jdxt/polybar-mpris)
+* 0jdxt/dotfiles/.bin/[polybar-updates](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-updates)
+* * 0jdxt/dotfiles/.bin/[polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
 ### :toolbox: scripts
-* [0jdxt/dotfiles/.bin](https://github.com/0jdxt/dotfiles/tree/master/.bin)
+* 0jdxt/dotfiles/[.bin](https://github.com/0jdxt/dotfiles/tree/master/.bin)
