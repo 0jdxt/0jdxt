@@ -21,7 +21,6 @@ export WM=bspwm
 
 ## :card_index_dividers: setup
 
-* [polybar/polybar](https://github.com/polybar/polybar)
 * [0jdxt/dotfiles](https://github.com/0jdxt/dotfiles)
 
 
