@@ -33,7 +33,7 @@ export WM=bspwm
 
 ## :bar_chart: polybar modules
 
-* 📚 [0jdxt/polybar-kde](https://github.com/0jdxt/polybar-kde)
+* 📲 [0jdxt/polybar-kde](https://github.com/0jdxt/polybar-kde)
 * ⏯️ [0jdxt/polybar-mpris](https://github.com/0jdxt/polybar-mpris)
 * 📦 [0jdxt/dotfiles/.bin/polybar-updates](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-updates)
 * 🗔 [0jdxt/dotfiles/.bin/polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
