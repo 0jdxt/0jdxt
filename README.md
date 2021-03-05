@@ -37,6 +37,7 @@ export WM=bspwm
 * ⏯️ [0jdxt/polybar-mpris](https://github.com/0jdxt/polybar-mpris)
 * 📦 [0jdxt/dotfiles/.bin/polybar-updates](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-updates)
 * 🌃 [0jdxt/dotfiles/.bin/polybar-picom](https://github.com/0jdxt/dotfiles/tree/master/.bin/polybar-picom)
+* ⏬ [0jdxt/dotfiles/.bin/polybar-tsm-bar](https://github.com/0jdxt/dotfiles/blob/master/.bin/polybar-tsm-bar)
 
 
 ## :toolbox: scripts
