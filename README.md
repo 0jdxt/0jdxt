@@ -26,7 +26,7 @@ export WM=bspwm
 
 ## :hammer_and_wrench: builds
 
-* 🤔 [0jdxt/dmenu](https://github.com/0jdxt/dmenu)
+* 🤔 [0jdxt/nordmenu](https://github.com/0jdxt/nordmenu)
 * 🥤 [0jdxt/tabbed](https://github.com/0jdxt/tabbed)
 * 🐁 [0jdxt/oreo-nord-cursors](https://github.com/0jdxt/oreo-nord-cursors)
 
